@@ -1,0 +1,52 @@
+# Core ML / audio / NLP
+# NOTE: torch/torchaudio are pinned to 2.2.2 because pyannote.audio==3.1.1
+# still calls torchaudio.set_audio_backend(), which was removed in newer
+# torchaudio releases. Do not change these to >= without testing diarization.py.
+torch==2.2.2
+torchaudio==2.2.2
+openai-whisper==20231117
+pyannote.audio==3.1.1
+transformers>=4.38.0
+datasets>=2.18.0
+better-profanity==0.7.0
+scikit-learn>=1.4.0
+
+# Audio / video processing
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# Subtitles
+srt==3.5.3
+
+# Reporting
+reportlab==4.1.0
+
+# Web interface
+streamlit==1.33.0
+
+# Utilities
+numpy>=1.26.0
+tqdm>=4.66.0
+pyyaml>=6.0.1
+python-dotenv>=1.0.1
+
+# Build tooling
+# NOTE: openai-whisper's setup.py needs pkg_resources, which newer
+# setuptools (81+) no longer ships. Keep setuptools pinned below 81,
+# and if a fresh install fails on openai-whisper with
+# "ModuleNotFoundError: No module named 'pkg_resources'", run:
+#   pip install "setuptools<81" wheel
+#   pip install --no-build-isolation -r requirements.txt
+setuptools<81
+wheel
+
+# Note: FFmpeg itself must be installed system-wide (not a pip package):
+#   Ubuntu/Debian: sudo apt install ffmpeg
+#   macOS:         brew install ffmpeg
+#   Windows:       https://ffmpeg.org/download.html
+#
+# PyAnnote requires a HuggingFace access token with the pyannote/speaker-diarization-3.1
+# model terms accepted: https://huggingface.co/pyannote/speaker-diarization-3.1
+#
+# Recommended Python version: 3.11 (not 3.14 — torch/pyannote/whisper wheels
+# may not yet support very new Python releases).

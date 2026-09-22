@@ -1,0 +1,20 @@
+[
+  {
+    "word": "bullshit.",
+    "start": 5.059999942779541,
+    "end": 5.239999771118164,
+    "speaker": "SPEAKER_00",
+    "severity": 1.0,
+    "source": "ensemble",
+    "segment_text": "Honestly this is such bullshit."
+  },
+  {
+    "word": "ass",
+    "start": 8.680000305175781,
+    "end": 8.680000305175781,
+    "speaker": "SPEAKER_00",
+    "severity": 1.0,
+    "source": "ensemble",
+    "segment_text": "He is a total ass sometimes."
+  }
+]

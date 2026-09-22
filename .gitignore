@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+venv/
+env/
+
+# Pipeline working files, outputs and trained models (regenerated on each run)
+work/
+output/
+output_test/
+models/
+
+# Media -- recordings never belong in this repo
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.srt
+*.pdf
+
+# Secrets
+.env
+.env.*
+
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
+.claude/
+.agents/

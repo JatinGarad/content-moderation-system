@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2026-08-13T20:11:41",
+    "file": "WhatsApp Video 2026-07-29 at 10.59.33.mp4",
+    "asr_model": "large-v3",
+    "method": "ensemble",
+    "threshold": 0.5,
+    "n_segments": 8,
+    "n_words": 47,
+    "n_speakers": 1,
+    "n_flagged": 2,
+    "duration_s": 16.84,
+    "elapsed_s": 27.38,
+    "rtf": 1.626,
+    "stage_times": {
+      "audio_extraction": 0.45,
+      "transcription": 16.31,
+      "diarization": 7.69,
+      "detection": 2.61,
+      "fusion": 0.0,
+      "censorship": 0.25
+    }
+  },
+  {
+    "timestamp": "2026-08-13T20:12:56",
+    "file": "WhatsApp Video 2026-07-29 at 10.59.33.mp4",
+    "asr_model": "large-v3",
+    "method": "ensemble",
+    "threshold": 0.5,
+    "n_segments": 8,
+    "n_words": 47,
+    "n_speakers": 1,
+    "n_flagged": 2,
+    "duration_s": 16.84,
+    "elapsed_s": 24.37,
+    "rtf": 1.447,
+    "stage_times": {
+      "audio_extraction": 0.46,
+      "transcription": 13.81,
+      "diarization": 6.92,
+      "detection": 2.52,
+      "fusion": 0.0,
+      "censorship": 0.51
+    }
+  },
+  {
+    "timestamp": "2026-08-14T00:04:48",
+    "file": "WhatsApp Video 2026-07-29 at 10.59.33.mp4",
+    "asr_model": "large-v3",
+    "method": "ensemble",
+    "threshold": 0.5,
+    "n_segments": 8,
+    "n_words": 47,
+    "n_speakers": 1,
+    "n_flagged": 2,
+    "duration_s": 16.84,
+    "elapsed_s": 26.26,
+    "rtf": 1.56,
+    "stage_times": {
+      "audio_extraction": 0.48,
+      "transcription": 15.29,
+      "diarization": 7.11,
+      "detection": 2.79,
+      "fusion": 0.0,
+      "censorship": 0.47
+    }
+  }
+]

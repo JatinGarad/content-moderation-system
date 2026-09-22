@@ -1,0 +1,348 @@
+[
+  {
+    "id": 0,
+    "start": 0.7799999713897705,
+    "end": 3.0399999618530273,
+    "text": "Okay, this next scene needs some work.",
+    "words": [
+      {
+        "word": "Okay,",
+        "start": 0.7799999713897705,
+        "end": 0.9800000190734863,
+        "confidence": 1.0
+      },
+      {
+        "word": "this",
+        "start": 1.2999999523162842,
+        "end": 1.2999999523162842,
+        "confidence": 1.0
+      },
+      {
+        "word": "next",
+        "start": 1.6399999856948853,
+        "end": 1.6399999856948853,
+        "confidence": 1.0
+      },
+      {
+        "word": "scene",
+        "start": 1.940000057220459,
+        "end": 1.940000057220459,
+        "confidence": 1.0
+      },
+      {
+        "word": "needs",
+        "start": 2.380000114440918,
+        "end": 2.380000114440918,
+        "confidence": 1.0
+      },
+      {
+        "word": "some",
+        "start": 2.5999999046325684,
+        "end": 2.5999999046325684,
+        "confidence": 1.0
+      },
+      {
+        "word": "work.",
+        "start": 2.8399999141693115,
+        "end": 3.0399999618530273,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "start": 3.5399999618530273,
+    "end": 5.239999771118164,
+    "text": "Honestly this is such bullshit.",
+    "words": [
+      {
+        "word": "Honestly",
+        "start": 3.5399999618530273,
+        "end": 3.5399999618530273,
+        "confidence": 1.0
+      },
+      {
+        "word": "this",
+        "start": 4.119999885559082,
+        "end": 4.119999885559082,
+        "confidence": 1.0
+      },
+      {
+        "word": "is",
+        "start": 4.28000020980835,
+        "end": 4.28000020980835,
+        "confidence": 1.0
+      },
+      {
+        "word": "such",
+        "start": 4.599999904632568,
+        "end": 4.599999904632568,
+        "confidence": 1.0
+      },
+      {
+        "word": "bullshit.",
+        "start": 5.059999942779541,
+        "end": 5.239999771118164,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start": 5.699999809265137,
+    "end": 7.199999809265137,
+    "text": "I can't believe it he did that.",
+    "words": [
+      {
+        "word": "I",
+        "start": 5.699999809265137,
+        "end": 5.699999809265137,
+        "confidence": 1.0
+      },
+      {
+        "word": "can't",
+        "start": 5.880000114440918,
+        "end": 6.0,
+        "confidence": 1.0
+      },
+      {
+        "word": "believe",
+        "start": 6.260000228881836,
+        "end": 6.260000228881836,
+        "confidence": 1.0
+      },
+      {
+        "word": "it",
+        "start": 6.460000038146973,
+        "end": 6.460000038146973,
+        "confidence": 1.0
+      },
+      {
+        "word": "he",
+        "start": 6.559999942779541,
+        "end": 6.559999942779541,
+        "confidence": 1.0
+      },
+      {
+        "word": "did",
+        "start": 6.78000020980835,
+        "end": 6.78000020980835,
+        "confidence": 1.0
+      },
+      {
+        "word": "that.",
+        "start": 7.0,
+        "end": 7.199999809265137,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start": 7.860000133514404,
+    "end": 9.420000076293945,
+    "text": "He is a total ass sometimes.",
+    "words": [
+      {
+        "word": "He",
+        "start": 7.860000133514404,
+        "end": 7.860000133514404,
+        "confidence": 1.0
+      },
+      {
+        "word": "is",
+        "start": 7.960000038146973,
+        "end": 7.960000038146973,
+        "confidence": 1.0
+      },
+      {
+        "word": "a",
+        "start": 8.079999923706055,
+        "end": 8.079999923706055,
+        "confidence": 1.0
+      },
+      {
+        "word": "total",
+        "start": 8.359999656677246,
+        "end": 8.359999656677246,
+        "confidence": 1.0
+      },
+      {
+        "word": "ass",
+        "start": 8.680000305175781,
+        "end": 8.680000305175781,
+        "confidence": 1.0
+      },
+      {
+        "word": "sometimes.",
+        "start": 9.079999923706055,
+        "end": 9.420000076293945,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start": 9.84000015258789,
+    "end": 11.100000381469727,
+    "text": "But I still love the guy.",
+    "words": [
+      {
+        "word": "But",
+        "start": 9.84000015258789,
+        "end": 9.84000015258789,
+        "confidence": 1.0
+      },
+      {
+        "word": "I",
+        "start": 10.0,
+        "end": 10.0,
+        "confidence": 1.0
+      },
+      {
+        "word": "still",
+        "start": 10.260000228881836,
+        "end": 10.260000228881836,
+        "confidence": 1.0
+      },
+      {
+        "word": "love",
+        "start": 10.479999542236328,
+        "end": 10.479999542236328,
+        "confidence": 1.0
+      },
+      {
+        "word": "the",
+        "start": 10.579999923706055,
+        "end": 10.579999923706055,
+        "confidence": 1.0
+      },
+      {
+        "word": "guy.",
+        "start": 10.760000228881836,
+        "end": 11.100000381469727,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "start": 11.619999885559082,
+    "end": 14.800000190734863,
+    "text": "Anyway, the idiot forget to lock the door again.",
+    "words": [
+      {
+        "word": "Anyway,",
+        "start": 11.619999885559082,
+        "end": 11.800000190734863,
+        "confidence": 1.0
+      },
+      {
+        "word": "the",
+        "start": 12.279999732971191,
+        "end": 12.279999732971191,
+        "confidence": 1.0
+      },
+      {
+        "word": "idiot",
+        "start": 12.680000305175781,
+        "end": 12.680000305175781,
+        "confidence": 1.0
+      },
+      {
+        "word": "forget",
+        "start": 13.0,
+        "end": 13.0,
+        "confidence": 1.0
+      },
+      {
+        "word": "to",
+        "start": 13.220000267028809,
+        "end": 13.220000267028809,
+        "confidence": 1.0
+      },
+      {
+        "word": "lock",
+        "start": 13.479999542236328,
+        "end": 13.479999542236328,
+        "confidence": 1.0
+      },
+      {
+        "word": "the",
+        "start": 13.680000305175781,
+        "end": 13.680000305175781,
+        "confidence": 1.0
+      },
+      {
+        "word": "door",
+        "start": 13.9399995803833,
+        "end": 13.9399995803833,
+        "confidence": 1.0
+      },
+      {
+        "word": "again.",
+        "start": 14.180000305175781,
+        "end": 14.800000190734863,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "start": 15.199999809265137,
+    "end": 15.779999732971191,
+    "text": "Let's move on.",
+    "words": [
+      {
+        "word": "Let's",
+        "start": 15.199999809265137,
+        "end": 15.220000267028809,
+        "confidence": 1.0
+      },
+      {
+        "word": "move",
+        "start": 15.4399995803833,
+        "end": 15.4399995803833,
+        "confidence": 1.0
+      },
+      {
+        "word": "on.",
+        "start": 15.680000305175781,
+        "end": 15.779999732971191,
+        "confidence": 1.0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "start": 16.040000915527344,
+    "end": 16.84000015258789,
+    "text": "Check the next shot.",
+    "words": [
+      {
+        "word": "Check",
+        "start": 16.040000915527344,
+        "end": 16.040000915527344,
+        "confidence": 1.0
+      },
+      {
+        "word": "the",
+        "start": 16.219999313354492,
+        "end": 16.219999313354492,
+        "confidence": 1.0
+      },
+      {
+        "word": "next",
+        "start": 16.440000534057617,
+        "end": 16.440000534057617,
+        "confidence": 1.0
+      },
+      {
+        "word": "shot.",
+        "start": 16.639999389648438,
+        "end": 16.84000015258789,
+        "confidence": 1.0
+      }
+    ]
+  }
+]
